@@ -4,8 +4,8 @@ if __name__ == "__main__":
     pokemon = ('pikachu', 'charmander', 'bulbasaur')
     print(pokemon[1])
 
-    #pokemon.sort()
-    #print(pokemon)
+    pokemon.sort()
+    print(pokemon)
 
 #name tuple here
     my_name = ('Lita Martinez')
